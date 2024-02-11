@@ -1,0 +1,486 @@
+{
+    "repositories": [
+      {
+        "name": "100-Machine-Learning-Model",
+        "html_url": "https://github.com/deepgohil/100-Machine-Learning-Model"
+      },
+      {
+        "name": "adbms",
+        "html_url": "https://github.com/deepgohil/adbms"
+      },
+      {
+        "name": "AI-codes",
+        "html_url": "https://github.com/deepgohil/AI-codes"
+      },
+      {
+        "name": "boltheads",
+        "html_url": "https://github.com/deepgohil/boltheads"
+      },
+      {
+        "name": "Boostallsocials",
+        "html_url": "https://github.com/deepgohil/Boostallsocials"
+      },
+      {
+        "name": "Brain-Tumor-Detection-app",
+        "html_url": "https://github.com/deepgohil/Brain-Tumor-Detection-app"
+      },
+      {
+        "name": "cicdCode",
+        "html_url": "https://github.com/deepgohil/cicdCode"
+      },
+      {
+        "name": "clearhow",
+        "html_url": "https://github.com/deepgohil/clearhow"
+      },
+      {
+        "name": "college-DSA-codes-in-c",
+        "html_url": "https://github.com/deepgohil/college-DSA-codes-in-c"
+      },
+      {
+        "name": "covid19-sir",
+        "html_url": "https://github.com/deepgohil/covid19-sir"
+      },
+      {
+        "name": "crispy-robot",
+        "html_url": "https://github.com/deepgohil/crispy-robot"
+      },
+      {
+        "name": "CRUD-opration-fetch-API",
+        "html_url": "https://github.com/deepgohil/CRUD-opration-fetch-API"
+      },
+      {
+        "name": "D-Science",
+        "html_url": "https://github.com/deepgohil/D-Science"
+      },
+      {
+        "name": "data",
+        "html_url": "https://github.com/deepgohil/data"
+      },
+      {
+        "name": "DBMS",
+        "html_url": "https://github.com/deepgohil/DBMS"
+      },
+      {
+        "name": "Debouncing-in-js-code",
+        "html_url": "https://github.com/deepgohil/Debouncing-in-js-code"
+      },
+      {
+        "name": "DSA",
+        "html_url": "https://github.com/deepgohil/DSA"
+      },
+      {
+        "name": "Ecom-API",
+        "html_url": "https://github.com/deepgohil/Ecom-API"
+      },
+      {
+        "name": "gogoGPCR",
+        "html_url": "https://github.com/deepgohil/gogoGPCR"
+      },
+      {
+        "name": "html",
+        "html_url": "https://github.com/deepgohil/html"
+      },
+      {
+        "name": "IPD",
+        "html_url": "https://github.com/deepgohil/IPD"
+      },
+      {
+        "name": "IPD-ALGORITHM-PRICE-PREDICTION",
+        "html_url": "https://github.com/deepgohil/IPD-ALGORITHM-PRICE-PREDICTION"
+      },
+      {
+        "name": "IPD_API",
+        "html_url": "https://github.com/deepgohil/IPD_API"
+      },
+      {
+        "name": "java-assignment-",
+        "html_url": "https://github.com/deepgohil/java-assignment-"
+      },
+      {
+        "name": "leetcodeQuestionsolvescraper",
+        "html_url": "https://github.com/deepgohil/leetcodeQuestionsolvescraper"
+      },
+      {
+        "name": "mak.ig",
+        "html_url": "https://github.com/deepgohil/mak.ig"
+      },
+      {
+        "name": "matplotlib",
+        "html_url": "https://github.com/deepgohil/matplotlib"
+      },
+      {
+        "name": "Microservice-EC2-python-selenium",
+        "html_url": "https://github.com/deepgohil/Microservice-EC2-python-selenium"
+      },
+      {
+        "name": "POA",
+        "html_url": "https://github.com/deepgohil/POA"
+      },
+      {
+        "name": "pycode6",
+        "html_url": "https://github.com/deepgohil/pycode6"
+      },
+      {
+        "name": "pylint",
+        "html_url": "https://github.com/deepgohil/pylint"
+      },
+      {
+        "name": "pythoncodes",
+        "html_url": "https://github.com/deepgohil/pythoncodes"
+      },
+      {
+        "name": "pythonlab",
+        "html_url": "https://github.com/deepgohil/pythonlab"
+      },
+      {
+        "name": "React-food-website",
+        "html_url": "https://github.com/deepgohil/React-food-website"
+      },
+      {
+        "name": "reactpro",
+        "html_url": "https://github.com/deepgohil/reactpro"
+      },
+      {
+        "name": "reactprojectmain",
+        "html_url": "https://github.com/deepgohil/reactprojectmain"
+      },
+      {
+        "name": "reccom-website-demo-in-html-",
+        "html_url": "https://github.com/deepgohil/reccom-website-demo-in-html-"
+      },
+      {
+        "name": "recomm-html-css",
+        "html_url": "https://github.com/deepgohil/recomm-html-css"
+      },
+      {
+        "name": "recomm-website",
+        "html_url": "https://github.com/deepgohil/recomm-website"
+      },
+      {
+        "name": "repository-service-tuf-api",
+        "html_url": "https://github.com/deepgohil/repository-service-tuf-api"
+      },
+      {
+        "name": "ShivSite",
+        "html_url": "https://github.com/deepgohil/ShivSite"
+      },
+      {
+        "name": "socket.io-python",
+        "html_url": "https://github.com/deepgohil/socket.io-python"
+      },
+      {
+        "name": "startingTS",
+        "html_url": "https://github.com/deepgohil/startingTS"
+      },
+      {
+        "name": "Streamlit-personal-website",
+        "html_url": "https://github.com/deepgohil/Streamlit-personal-website"
+      },
+      {
+        "name": "StressDetector",
+        "html_url": "https://github.com/deepgohil/StressDetector"
+      },
+      {
+        "name": "tejas",
+        "html_url": "https://github.com/deepgohil/tejas"
+      },
+      {
+        "name": "test",
+        "html_url": "https://github.com/deepgohil/test"
+      },
+      {
+        "name": "testlogin-code",
+        "html_url": "https://github.com/deepgohil/testlogin-code"
+      },
+      {
+        "name": "Vercel-api-test",
+        "html_url": "https://github.com/deepgohil/Vercel-api-test"
+      },
+      {
+        "name": "vh",
+        "html_url": "https://github.com/deepgohil/vh"
+      },
+      {
+        "name": "whalemart",
+        "html_url": "https://github.com/deepgohil/whalemart"
+      },
+      {
+        "name": "ZS-Hiring-Challenge",
+        "html_url": "https://github.com/deepgohil/ZS-Hiring-Challenge"
+      },
+      {
+        "name": "Frontend",
+        "html_url": "https://github.com/DJ-IPD/Frontend"
+      },
+      {
+        "name": "IPD-socket",
+        "html_url": "https://github.com/DJ-IPD/IPD-socket"
+      },
+      {
+        "name": "newsScrapperCron",
+        "html_url": "https://github.com/DJ-IPD/newsScrapperCron"
+      },
+      {
+        "name": "ShivSite",
+        "html_url": "https://github.com/Herakmon/ShivSite"
+      },
+      {
+        "name": "COC-All-Stackers",
+        "html_url": "https://github.com/jhenilparihar/COC-All-Stackers"
+      },
+      {
+        "name": "hackNcheese-SPIT-Hackathon",
+        "html_url": "https://github.com/Shashwatshah02/hackNcheese-SPIT-Hackathon"
+      },
+      {
+        "name": "Datahack_4_Hack-Sapiens",
+        "html_url": "https://github.com/shubhammehta39/Datahack_4_Hack-Sapiens"
+      },
+      {
+        "name": "natours",
+        "html_url": "https://github.com/Tejaspatade/natours"
+      }
+    ],
+    "contributions": [
+      {
+        "repo_name": "100-Machine-Learning-Model",
+        "commit_count": 0,
+        "repo_url": "https://github.com/deepgohil/100-Machine-Learning-Model"
+      },
+      {
+        "repo_name": "adbms",
+        "commit_count": 2,
+        "repo_url": "https://github.com/deepgohil/adbms"
+      },
+      {
+        "repo_name": "AI-codes",
+        "commit_count": 1,
+        "repo_url": "https://github.com/deepgohil/AI-codes"
+      },
+      {
+        "repo_name": "boltheads",
+        "commit_count": 2,
+        "repo_url": "https://github.com/deepgohil/boltheads"
+      },
+      {
+        "repo_name": "Boostallsocials",
+        "commit_count": 11,
+        "repo_url": "https://github.com/deepgohil/Boostallsocials"
+      },
+      {
+        "repo_name": "Brain-Tumor-Detection-app",
+        "commit_count": 13,
+        "repo_url": "https://github.com/deepgohil/Brain-Tumor-Detection-app"
+      },
+      {
+        "repo_name": "cicdCode",
+        "commit_count": 10,
+        "repo_url": "https://github.com/deepgohil/cicdCode"
+      },
+      {
+        "repo_name": "clearhow",
+        "commit_count": 0,
+        "repo_url": "https://github.com/deepgohil/clearhow"
+      },
+      {
+        "repo_name": "college-DSA-codes-in-c",
+        "commit_count": 10,
+        "repo_url": "https://github.com/deepgohil/college-DSA-codes-in-c"
+      },
+      {
+        "repo_name": "covid19-sir",
+        "commit_count": 4,
+        "repo_url": "https://github.com/deepgohil/covid19-sir"
+      },
+      {
+        "repo_name": "crispy-robot",
+        "commit_count": 4,
+        "repo_url": "https://github.com/deepgohil/crispy-robot"
+      },
+      {
+        "repo_name": "CRUD-opration-fetch-API",
+        "commit_count": 2,
+        "repo_url": "https://github.com/deepgohil/CRUD-opration-fetch-API"
+      },
+      {
+        "repo_name": "D-Science",
+        "commit_count": 13,
+        "repo_url": "https://github.com/deepgohil/D-Science"
+      },
+      {
+        "repo_name": "DBMS",
+        "commit_count": 2,
+        "repo_url": "https://github.com/deepgohil/DBMS"
+      },
+      {
+        "repo_name": "Debouncing-in-js-code",
+        "commit_count": 1,
+        "repo_url": "https://github.com/deepgohil/Debouncing-in-js-code"
+      },
+      {
+        "repo_name": "DSA",
+        "commit_count": 30,
+        "repo_url": "https://github.com/deepgohil/DSA"
+      },
+      {
+        "repo_name": "Ecom-API",
+        "commit_count": 2,
+        "repo_url": "https://github.com/deepgohil/Ecom-API"
+      },
+      {
+        "repo_name": "gogoGPCR",
+        "commit_count": 1,
+        "repo_url": "https://github.com/deepgohil/gogoGPCR"
+      },
+      {
+        "repo_name": "html",
+        "commit_count": 2,
+        "repo_url": "https://github.com/deepgohil/html"
+      },
+      {
+        "repo_name": "IPD",
+        "commit_count": 3,
+        "repo_url": "https://github.com/deepgohil/IPD"
+      },
+      {
+        "repo_name": "IPD-ALGORITHM-PRICE-PREDICTION",
+        "commit_count": 3,
+        "repo_url": "https://github.com/deepgohil/IPD-ALGORITHM-PRICE-PREDICTION"
+      },
+      {
+        "repo_name": "IPD_API",
+        "commit_count": 4,
+        "repo_url": "https://github.com/deepgohil/IPD_API"
+      },
+      {
+        "repo_name": "java-assignment-",
+        "commit_count": 2,
+        "repo_url": "https://github.com/deepgohil/java-assignment-"
+      },
+      {
+        "repo_name": "leetcodeQuestionsolvescraper",
+        "commit_count": 2,
+        "repo_url": "https://github.com/deepgohil/leetcodeQuestionsolvescraper"
+      },
+      {
+        "repo_name": "mak.ig",
+        "commit_count": 2,
+        "repo_url": "https://github.com/deepgohil/mak.ig"
+      },
+      {
+        "repo_name": "matplotlib",
+        "commit_count": 0,
+        "repo_url": "https://github.com/deepgohil/matplotlib"
+      },
+      {
+        "repo_name": "Microservice-EC2-python-selenium",
+        "commit_count": 2,
+        "repo_url": "https://github.com/deepgohil/Microservice-EC2-python-selenium"
+      },
+      {
+        "repo_name": "POA",
+        "commit_count": 1,
+        "repo_url": "https://github.com/deepgohil/POA"
+      },
+      {
+        "repo_name": "pycode6",
+        "commit_count": 3,
+        "repo_url": "https://github.com/deepgohil/pycode6"
+      },
+      {
+        "repo_name": "pylint",
+        "commit_count": 0,
+        "repo_url": "https://github.com/deepgohil/pylint"
+      },
+      {
+        "repo_name": "pythoncodes",
+        "commit_count": 1,
+        "repo_url": "https://github.com/deepgohil/pythoncodes"
+      },
+      {
+        "repo_name": "React-food-website",
+        "commit_count": 3,
+        "repo_url": "https://github.com/deepgohil/React-food-website"
+      },
+      {
+        "repo_name": "reactpro",
+        "commit_count": 0,
+        "repo_url": "https://github.com/deepgohil/reactpro"
+      },
+      {
+        "repo_name": "reactprojectmain",
+        "commit_count": 3,
+        "repo_url": "https://github.com/deepgohil/reactprojectmain"
+      },
+      {
+        "repo_name": "recomm-html-css",
+        "commit_count": 2,
+        "repo_url": "https://github.com/deepgohil/recomm-html-css"
+      },
+      {
+        "repo_name": "recomm-website",
+        "commit_count": 4,
+        "repo_url": "https://github.com/deepgohil/recomm-website"
+      },
+      {
+        "repo_name": "repository-service-tuf-api",
+        "commit_count": 1,
+        "repo_url": "https://github.com/deepgohil/repository-service-tuf-api"
+      },
+      {
+        "repo_name": "ShivSite",
+        "commit_count": 1,
+        "repo_url": "https://github.com/deepgohil/ShivSite"
+      },
+      {
+        "repo_name": "socket.io-python",
+        "commit_count": 2,
+        "repo_url": "https://github.com/deepgohil/socket.io-python"
+      },
+      {
+        "repo_name": "startingTS",
+        "commit_count": 3,
+        "repo_url": "https://github.com/deepgohil/startingTS"
+      },
+      {
+        "repo_name": "Streamlit-personal-website",
+        "commit_count": 5,
+        "repo_url": "https://github.com/deepgohil/Streamlit-personal-website"
+      },
+      {
+        "repo_name": "StressDetector",
+        "commit_count": 4,
+        "repo_url": "https://github.com/deepgohil/StressDetector"
+      },
+      {
+        "repo_name": "tejas",
+        "commit_count": 1,
+        "repo_url": "https://github.com/deepgohil/tejas"
+      },
+      {
+        "repo_name": "testlogin-code",
+        "commit_count": 2,
+        "repo_url": "https://github.com/deepgohil/testlogin-code"
+      },
+      {
+        "repo_name": "Vercel-api-test",
+        "commit_count": 1,
+        "repo_url": "https://github.com/deepgohil/Vercel-api-test"
+      },
+      {
+        "repo_name": "whalemart",
+        "commit_count": 0,
+        "repo_url": "https://github.com/deepgohil/whalemart"
+      },
+      {
+        "repo_name": "ZS-Hiring-Challenge",
+        "commit_count": 1,
+        "repo_url": "https://github.com/deepgohil/ZS-Hiring-Challenge"
+      },
+      {
+        "repo_name": "ShivSite",
+        "commit_count": 1,
+        "repo_url": "https://github.com/Herakmon/ShivSite"
+      }
+    ]
+  }

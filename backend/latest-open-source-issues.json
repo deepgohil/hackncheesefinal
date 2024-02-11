@@ -1,0 +1,72 @@
+[
+  {
+    "issue_title": "PicoScenes installation error",
+    "issue_url": "https://github.com/Gi-z/CSIKit/issues/50",
+    "stars": 164,
+    "language": "Python",
+    "contribution_link": "https://github.com/Gi-z/CSIKit/blob/master/CONTRIBUTING.md"
+  },
+  {
+    "issue_title": "[New feature] Wall with posters view for Movies and Series",
+    "issue_url": "https://github.com/yuki-iptv/yuki-iptv/issues/50",
+    "stars": 56,
+    "language": "Python",
+    "contribution_link": "https://github.com/yuki-iptv/yuki-iptv/blob/master/CONTRIBUTING.md"
+  },
+  {
+    "issue_title": "视频下载失效了",
+    "issue_url": "https://github.com/JoeanAmier/XHS-Downloader/issues/50",
+    "stars": 2558,
+    "language": "Python",
+    "contribution_link": "https://github.com/JoeanAmier/XHS-Downloader/blob/master/CONTRIBUTING.md"
+  },
+  {
+    "issue_title": "CAIN RuntimeError: Tensors must have same number of dimensions: got 4 and 3",
+    "issue_url": "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation/issues/50",
+    "stars": 200,
+    "language": "Python",
+    "contribution_link": "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation/blob/master/CONTRIBUTING.md"
+  },
+  {
+    "issue_title": "Pysam 0.11 align error",
+    "issue_url": "https://github.com/BSSeeker/BSseeker2/issues/50",
+    "stars": 60,
+    "language": "Python",
+    "contribution_link": "https://github.com/BSSeeker/BSseeker2/blob/master/CONTRIBUTING.md"
+  },
+  {
+    "issue_title": "[Question] How to search for the next page when I want?",
+    "issue_url": "https://github.com/dermasmid/scrapetube/issues/50",
+    "stars": 238,
+    "language": "Python",
+    "contribution_link": "https://github.com/dermasmid/scrapetube/blob/master/CONTRIBUTING.md"
+  },
+  {
+    "issue_title": "Performance Issue: Slow read_csv() Function with pandas Version 1.3.4 for CSV Files",
+    "issue_url": "https://github.com/OpenTalker/StyleHEAT/issues/50",
+    "stars": 568,
+    "language": "Python",
+    "contribution_link": "https://github.com/OpenTalker/StyleHEAT/blob/master/CONTRIBUTING.md"
+  },
+  {
+    "issue_title": "Error while downloading torrent file",
+    "issue_url": "https://github.com/nbusseneau/qBittorrent-RuTracker-plugin/issues/50",
+    "stars": 172,
+    "language": "Python",
+    "contribution_link": "https://github.com/nbusseneau/qBittorrent-RuTracker-plugin/blob/master/CONTRIBUTING.md"
+  },
+  {
+    "issue_title": "请问svd 模型配合的的open clip是哪个，我下载了官方的几个模型都报错。",
+    "issue_url": "https://github.com/yolain/ComfyUI-Easy-Use/issues/50",
+    "stars": 103,
+    "language": "Python",
+    "contribution_link": "https://github.com/yolain/ComfyUI-Easy-Use/blob/master/CONTRIBUTING.md"
+  },
+  {
+    "issue_title": "Wrong ember prediction ",
+    "issue_url": "https://github.com/pralab/secml_malware/issues/50",
+    "stars": 181,
+    "language": "Python",
+    "contribution_link": "https://github.com/pralab/secml_malware/blob/master/CONTRIBUTING.md"
+  }
+]

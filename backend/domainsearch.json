@@ -1,0 +1,107 @@
+[
+    {
+      "repository_url": "https://github.com/netdata/netdata",
+      "topics": [
+        "alerting",
+        "cncf",
+        "data-visualization",
+        "database",
+        "devops",
+        "docker",
+        "grafana",
+        "influxdb",
+        "kubernetes",
+        "linux",
+        "machine-learning",
+        "mongodb",
+        "monitoring",
+        "mysql",
+        "netdata",
+        "observability",
+        "postgresql",
+        "prometheus",
+        "raspberry-pi",
+        "statsd"
+      ],
+      "stargazers_count": 67050
+    },
+    {
+      "repository_url": "https://github.com/redis/redis",
+      "topics": [
+        "cache",
+        "database",
+        "key-value",
+        "message-broker",
+        "nosql",
+        "redis"
+      ],
+      "stargazers_count": 63328
+    },
+    {
+      "repository_url": "https://github.com/etcd-io/etcd",
+      "topics": [
+        "cncf",
+        "consensus",
+        "database",
+        "distributed-database",
+        "distributed-systems",
+        "etcd",
+        "go",
+        "key-value",
+        "kubernetes",
+        "raft"
+      ],
+      "stargazers_count": 45699
+    },
+    {
+      "repository_url": "https://github.com/meilisearch/meilisearch",
+      "topics": [
+        "app-search",
+        "database",
+        "enterprise-search",
+        "faceting",
+        "full-text-search",
+        "fuzzy-search",
+        "geosearch",
+        "hybrid-search",
+        "instantsearch",
+        "rest",
+        "rust",
+        "search",
+        "search-as-you-type",
+        "search-engine",
+        "site-search",
+        "synonyms",
+        "typo-tolerance",
+        "vector-database",
+        "vectors"
+      ],
+      "stargazers_count": 41686
+    },
+    {
+      "repository_url": "https://github.com/LeCoupa/awesome-cheatsheets",
+      "topics": [
+        "backend",
+        "bash",
+        "cheatsheet",
+        "cheatsheets",
+        "database",
+        "django",
+        "docker",
+        "feathersjs",
+        "frontend",
+        "javascript",
+        "kubernetes",
+        "language",
+        "nodejs",
+        "php",
+        "programming-language",
+        "redis",
+        "sailsjs",
+        "vim",
+        "vuejs",
+        "xcode"
+      ],
+      "stargazers_count": 36214
+    }
+  ]
